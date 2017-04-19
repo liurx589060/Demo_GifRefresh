@@ -1,0 +1,178 @@
+[
+    {
+        "outputFile": "C:\\Users\\liurunxiong\\Desktop\\Demo_GifRefresh\\ptr-refresh\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\liurunxiong\\Desktop\\Demo_GifRefresh\\ptr-refresh\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 62,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 62,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "C:\\Users\\liurunxiong\\Desktop\\Demo_GifRefresh\\ptr-refresh\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 67,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 61,
+                    "endOffset": 233
+                },
+                "from": {
+                    "file": "C:\\Users\\liurunxiong\\Desktop\\Demo_GifRefresh\\ptr-refresh\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endColumn": 66,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 238,
+                    "endColumn": 56,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "C:\\Users\\liurunxiong\\Desktop\\Demo_GifRefresh\\ptr-refresh\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 78,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "C:\\Users\\liurunxiong\\Desktop\\Demo_GifRefresh\\ptr-refresh\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 78,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 62,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "C:\\Users\\liurunxiong\\Desktop\\Demo_GifRefresh\\ptr-refresh\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 62,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 59,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "C:\\Users\\liurunxiong\\Desktop\\Demo_GifRefresh\\ptr-refresh\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 59,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 74,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "C:\\Users\\liurunxiong\\Desktop\\Demo_GifRefresh\\ptr-refresh\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 74,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 572,
+                    "endColumn": 61,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "C:\\Users\\liurunxiong\\Desktop\\Demo_GifRefresh\\ptr-refresh\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 459,
+                        "endColumn": 66,
+                        "endOffset": 521
+                    }
+                }
+            }
+        ]
+    }
+]
